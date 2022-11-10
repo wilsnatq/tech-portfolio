@@ -3,12 +3,15 @@ id: projects
 title: Projects
 ---
 
-Embed any notable projects in this page.
+Here are some notable projects.
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
+This is a web portal for a sample human resources department. There are web forms to search a sample database of employees [HR Search Web Portal](https://waketech-cti110-group4.000webhostapp.com/group4-hr-dept-search.html)
 
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
+This is a screenshot of the search by department form:
 
-![Add alternate text for image](./assets/rosemary.png)
+![Search by department form](./assets/HRsearch.png)
+
+
+This is a screenshot of the search results:
+
+![Search by department form](./assets/HRsearchresults.png)
